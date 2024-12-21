@@ -1,4 +1,5 @@
-# Correlation and regression for data analysis
+# Ex No 03 : Correlation and regression for data analysis
+## Date : 19/10/2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -20,10 +21,14 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+## Developed by : R.LOGU
+## Reg No : 24900902
+![Screenshot 2024-12-21 104500](https://github.com/user-attachments/assets/8557b314-167c-42d6-9f88-feceab5d788e)
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
-
-
-# Result
 
 # Output 
+![Screenshot 2024-12-21 104524](https://github.com/user-attachments/assets/ee203b06-f02e-4206-ba94-9bb79e13ffba)
+![Screenshot 2024-12-21 105302](https://github.com/user-attachments/assets/f3904909-6cbb-40d1-a870-abc6b4b39c30)
+
+# Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
